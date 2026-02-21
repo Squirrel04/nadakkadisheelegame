@@ -98,7 +98,7 @@ hosted website: `https://nadakkadisheelegame.vercel.app/`
 ---
 
 ## 🎥 Demo Video Link
-[▶️ Watch the full application demo here](https://youtube.com/your-demo-link-here)
+(https://drive.google.com/file/d/1-ZRvrtKgWrM1GoxzY-Oab2s6jA9UZahU/view?usp=sharing)
 
 ---
 
@@ -166,10 +166,8 @@ The backend provides the following RESTful endpoints:
 ---
 
 ## 👥 Team Members
-- **[Team Member 1]** - Full-Stack Developer - [GitHub](https://github.com/member1)
-- **[Team Member 2]** - UI/UX Designer - [GitHub](https://github.com/member2)
-- **[Team Member 3]** - Backend Engine - [GitHub](https://github.com/member3)
-*(Please update with actual team member details)*
+- **[Anna Rose Vince]** - Full-Stack Developer - [GitHub](https://github.com/Squirrel04)
+- **[TAdheena Basil]** - UI/UX Designer, Backend Engine - [GitHub](https://github.com/Adheena-16)
 
 ---
 
